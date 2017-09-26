@@ -1,6 +1,6 @@
 # ADSA-Assignment
 
-Instuctions to run : 
+Results can be verified using the following commands : 
 
 g++ -o red_black red_black.cpp  
 g++ -o avl avl.cpp
