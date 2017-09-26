@@ -1,6 +1,10 @@
 # ADSA-Assignment
 
-Instuctions to run :      
-g++ -o object_name red_black.cpp    
-object_name < test_case1.txt    
+Instuctions to run : 
+
+g++ -o red_black red_black.cpp  
+g++ -o avl avl.cpp
+
+red_black < test_case1.txt   
+avl < test_case1.txt   
 
